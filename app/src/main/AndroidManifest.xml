@@ -17,6 +17,10 @@
             </intent-filter>
         </activity>
         <activity android:name=".cjq9715"></activity>
+        <activity android:name=".rtm1822"></activity>
+        <activity android:name=".adk2266" />
+        <activity android:name=".zbh6609" />
+        <activity android:name=".PaytonsEmptyActivity"></activity>
     </application>
 
 </manifest>
