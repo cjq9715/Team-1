@@ -17,6 +17,7 @@ public class cjq9715 extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+
         back_main = (Button)findViewById(R.id.back_main);
         back_main.setOnClickListener(new View.OnClickListener() {
             @Override
